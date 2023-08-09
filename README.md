@@ -1,7 +1,9 @@
 # Dive Buddy
 
->this project is a clone of Graduation project for a software engineering course in which I took part as part of a team
+
+> This project is a clone of a Graduation project for a software engineering course in which I took part as part of a team
 >link: https://github.com/MightyArty/DiveBuddy
+
 
 <a href="https://ibb.co/cTQ1MSL"><img src="https://i.ibb.co/F7zKNLV/Screen-Shot-2023-01-16-at-09-43-09.png" alt="Screen-Shot-2023-01-16-at-09-43-09" border="0"></a>
 
