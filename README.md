@@ -1,5 +1,8 @@
 # Dive Buddy
 
+>Graduation project for a software engineering course in which I took part as part of a team
+>link: https://github.com/MightyArty/DiveBuddy
+
 <a href="https://ibb.co/cTQ1MSL"><img src="https://i.ibb.co/F7zKNLV/Screen-Shot-2023-01-16-at-09-43-09.png" alt="Screen-Shot-2023-01-16-at-09-43-09" border="0"></a>
 
 ## About:
@@ -8,7 +11,7 @@
 
 > In our times, Diving Schools still using old notebooks to keep the student's progress, and we here to make this experience more comfortable.
 
-> If you are new Student, you need to make a couple of dives with the instructor. Then you need to do a test and pass it in order to get your first Diving Star. Here we will keep track of each dive, the site in wich you dived, the gear you used and the depth you reached at each dive.
+> If you are new Student, you need to make a couple of dives with the instructor. Then you need to do a test and pass it in order to get your first Diving Star. Here we will keep track of each dive, the site in which you dived, the gear you used and the depth you reached at each dive.
 
 > The Instructors can set-up a weekly schedule, and the Student can view it in order to be updated with that information.
 
